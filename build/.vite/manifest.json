@@ -1,0 +1,50 @@
+{
+  "resources/css/Components/footer.css": {
+    "file": "assets/footer.C_W4jKhe.css",
+    "src": "resources/css/Components/footer.css",
+    "isEntry": true
+  },
+  "resources/css/Components/navbar.css": {
+    "file": "assets/navbar.DLemtQFz.css",
+    "src": "resources/css/Components/navbar.css",
+    "isEntry": true
+  },
+  "resources/css/Components/presentation.css": {
+    "file": "assets/presentation.CfNm2-D7.css",
+    "src": "resources/css/Components/presentation.css",
+    "isEntry": true
+  },
+  "resources/css/Components/services.css": {
+    "file": "assets/services.cuDp3lj6.css",
+    "src": "resources/css/Components/services.css",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.l0sNRNKZ.js",
+    "name": "app",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/contact.css": {
+    "file": "assets/contact.DxWXRmK1.css",
+    "src": "resources/css/contact.css",
+    "isEntry": true
+  },
+  "resources/css/faq.css": {
+    "file": "assets/faq.If_UF7dP.css",
+    "src": "resources/css/faq.css",
+    "isEntry": true
+  },
+  "resources/css/welcome.css": {
+    "file": "assets/welcome.l0sNRNKZ.js",
+    "name": "welcome",
+    "src": "resources/css/welcome.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.I5i9CKeh.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
